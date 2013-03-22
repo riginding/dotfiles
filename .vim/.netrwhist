@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/ryan'
+let g:netrw_dirhist_2='/home/ryan/programming'
+let g:netrw_dirhist_3='/home/ryan/programming/kpop_quiz'
+let g:netrw_dirhist_4='/home/ryan/programming/kpop_quiz/app'
+let g:netrw_dirhist_5='/home/ryan/programming/kpop_quiz/app/views'
+let g:netrw_dirhist_6='/home/ryan/programming/kpop_quiz/app/views/layouts'
